@@ -1,6 +1,14 @@
-#elem h2 {
-	color: lawngreen;
-}
-#elem1 .text{
+#block h1, #block h2{
+	text-align: center;
 	color: red;
+	font-size: 30px;
+}
+#block h3{
+	text-align: center;
+	color: orange;
+	font-size: 30px;
+}
+.xxx, .eee, h2.zzz{
+	text-align: center;
+	color: green;
 }
