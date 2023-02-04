@@ -1,9 +1,6 @@
-#cange1 {
-	color: purple;
+#elem h2 {
+	color: lawngreen;
 }
-#cange2 {
-	color: black;
-}
-#cange3 {
-	color: green;
+#elem1 .text{
+	color: red;
 }
