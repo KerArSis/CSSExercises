@@ -1,11 +1,17 @@
-main * title {
+a:link {
 	color: blue;
+	text-decoration: none;
 }
-main * link
-{
-	color: olivedrab;
+a:visited {
+	color: blue;
+	text-decoration: none;
 }
-main * .top
-{
-	color: maroon;
+a:hover {
+	text-decoration: underline;
+	color: red;
+
+}
+a:active {
+	color: blue;
+	text-decoration: none;
 }
