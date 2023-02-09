@@ -1,11 +1,9 @@
 #elem {
-	border: 5px double orange;
 	width: 200px;
 	height: 150px;
-}
-#elem1 {
-	border: 5px dotted blue;
-	width: 200px;
-	height: 150px;
+	border-left: 5px double orange;
+	border-right: 5px dotted red;
+	border-top: 1px solid black;
+	border-bottom: 1px solid blue;
 }
 
