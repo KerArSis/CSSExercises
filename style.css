@@ -1,14 +1,11 @@
-#aaa {
-	border-width: 5px;
-	border-style: double;
-	border-color: blue;
+#elem {
+	border: 5px double orange;
 	width: 200px;
 	height: 150px;
 }
-#bbb {
-	border-width: 5px;
-	border-style: dotted;
-	border-color: red;
+#elem1 {
+	border: 5px dotted blue;
 	width: 200px;
 	height: 150px;
 }
+
